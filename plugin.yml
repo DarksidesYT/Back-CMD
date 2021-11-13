@@ -1,0 +1,6 @@
+name: BackCMD_By_DSidesYT
+author: Darksidesyt
+version: 1.0.0
+main: darksidesyt\Back\Main
+description: "Plugin Back death"
+api: ["3.0.0", "4.0.0"]
